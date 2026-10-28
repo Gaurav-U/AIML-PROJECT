@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Smart Email Management System
+# 🤖 InboxIQ | Intelligent Email Management System
 
 An intelligent email management system built using Machine Learning, NLP, and Transformer-based models to classify emails, detect spam, and automate email organization.
 
